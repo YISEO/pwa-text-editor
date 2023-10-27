@@ -60,4 +60,7 @@ This text editor was built using the following technologies and tools:
 Feel free to contribute to this project by creating a pull request. I welcome any improvements or feature additions to make this text editor even better!
 
 ## Deployment
-This text editor is deployed on Heroku. Check it out [here]().
+This text editor is deployed on Heroku. Check it out [here](https://enigmatic-beach-03832-82d6a6e7b9dd.herokuapp.com/).
+
+## Screenshot
+![This is a screenshot](./image/screenshot.png)
